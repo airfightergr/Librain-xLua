@@ -2,17 +2,17 @@ xLua Librain Implementation for default aircrafts
 
 ## AIRCRAFT SUPPORTED 
 
-..* Boeing 747-400 only cockpit windows.
-..* Cessna C172 SP analogue version only, all windows.
+* Boeing 747-400 only cockpit windows.
+* Cessna C172 SP analogue version only, all windows.
 
 ## INSTALLATION 
 
-..* Click the green Clone or Download button (upper right corner) and select Download zip.
-..* Uzip the file into X-Plane 11 folder. Files should be placed in the correct order inside X-Plane folder structure.
+* Click the green Clone or Download button (upper right corner) and select Download zip.
+* Uzip the file into X-Plane 11 folder. Files should be placed in the correct order inside X-Plane folder structure.
 
-..* In case of any problems, please run X-Plane Updater to return X-Plane to the previous state.
+* In case of any problems, please run X-Plane Updater to return X-Plane to the previous state.
 
-..* A newer version of xLua is added to the specified aircrafts. If you update X-Plane, make sure that those files are not overwritten, otherwise you must do again the Installation procedure as above.
+* A newer version of xLua is added to the specified aircrafts. If you update X-Plane, make sure that those files are not overwritten, otherwise you must do again the Installation procedure as above.
 
 ## LICENSE
 
