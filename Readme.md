@@ -1,6 +1,6 @@
 xLua Librain Implementation for default aircrafts
 
-## AIRCRAFT SUPPORTED 
+## AIRCRAFTS SUPPORTED 
 
 * Boeing 747-400 only cockpit windows.
 * Cessna C172 SP analogue version only, all windows.
