@@ -14,6 +14,13 @@ xLua Librain Implementation for default aircrafts
 
 * A newer version of xLua is added to the specified aircrafts. If you update X-Plane, make sure that those files are not overwritten, otherwise you must do again the Installation procedure as above.
 
+## DOCUMENTATION
+
+Read info from librain master repo: https://github.com/skiselkov/librain/blob/master/src/librain.h
+No other documentation will be provided
+
+
+
 ## LICENSE
 
 MIT License
