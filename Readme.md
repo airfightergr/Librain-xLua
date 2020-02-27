@@ -1,6 +1,6 @@
 xLua Librain Implementation for default aircrafts
 
-## AIRCRAFT SUPPORTED 
+## AIRCRAFTS SUPPORTED 
 
 * Boeing 747-400 only cockpit windows.
 * Cessna C172 SP analogue version only, all windows.
@@ -8,7 +8,7 @@ xLua Librain Implementation for default aircrafts
 ## INSTALLATION 
 
 * Click the green Clone or Download button (upper right corner) and select Download zip.
-* Uzip the file into X-Plane 11 folder. Files should be placed in the correct order inside X-Plane folder structure.
+* Uzip the file and copy the `Aircraft` folder into X-Plane 11 folder. Files should be placed in the correct order inside X-Plane folder structure.
 
 * In case of any problems, please run X-Plane Updater to return X-Plane to the previous state.
 
@@ -17,7 +17,7 @@ xLua Librain Implementation for default aircrafts
 ## DOCUMENTATION
 
 Read info from librain master repo: https://github.com/skiselkov/librain/blob/master/src/librain.h
-No other documentation will be provided
+No other documentation will be provided.
 
 
 
