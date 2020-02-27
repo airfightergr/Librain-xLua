@@ -17,7 +17,7 @@ xLua Librain Implementation for default aircrafts
 ## DOCUMENTATION
 
 Read info from librain master repo: https://github.com/skiselkov/librain/blob/master/src/librain.h
-No other documentation will be provided
+No other documentation will be provided.
 
 
 
