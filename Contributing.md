@@ -24,12 +24,17 @@ If you want to contribute to this project, please follow the guidelines below:
 The scope of this repo is to allow anyone who wants to add or improve to be able to do so. For that reason, you must follow the rules below:
 * All source materials (3D files, textures, scripts, etc.) must be included in your commits.
 * 3D source file should be, preferably for **Blender**. Files from other 3D programs will be accepted.
-* Blender files must be for **Blender 2.80 or above**. Since from now one this is the new standard, we must transit to this workflow.
+* Blender files must be for **Blender 2.80 or above**. Since from now on this is the new standard, we must transit to this workflow.
 
 ###### RELEASE PACKAGING RULES
 * Each pull request must have a link to download the release version for each aircraft. Use any service you like (Google drive, Dropbox, Mega, ect.). This package must be clear of all unnecessary files for the final user (like source files).
 * I will download and repack everything, so will be 1 download file for all aircraft.
 * For 3rd party aircraft, you must include an `Installation.txt` file, with all steps required for successful installation.
-* For Laminar's aircraft must maintain X-Plane's structure, so the user be able to unzip the downloaded file on X-Plane's main folder and all files go to the right places.
-* For Macs: I will include special instruction for installation, since Macs, to my knowledge, don't merge folders, but they are replacing them.
+* For Laminar's aircraft, must maintain X-Plane's structure, so the user be able to unzip the downloaded file on X-Plane's main folder and all files go to the right places.
    
+###### ISSUES
+* When adding an issue, please provide as much detailed description as possible, and a proposed solution, if you can think of one.
+ 
+   
+###### GENERAL
+* Please be patient with your pull requests, since I have a very tight schedule, and might take a few days to respond.     
