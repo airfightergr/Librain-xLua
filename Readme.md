@@ -1,9 +1,10 @@
-xLua Librain Implementation for default aircrafts
+xLua Librain Implementation for default aircraft.
 
 ## AIRCRAFTS SUPPORTED 
 
-* Boeing 747-400 only cockpit windows.
+* Boeing 747-400 only cockpit windows and wiper operation. Avitab implementation.
 * Cessna C172 SP analogue version only, all windows.
+* Boeing 737-800 initial release, all glasses and wiper operation.
 
 ## INSTALLATION 
 
@@ -19,7 +20,8 @@ xLua Librain Implementation for default aircrafts
 Read info from librain master repo: https://github.com/skiselkov/librain/blob/master/src/librain.h
 No other documentation will be provided.
 
-
+##CONTRIBUTION
+If you want to contribute, please read the rules here: https://github.com/airfightergr/Librain-xLua/blob/master/Contributing.md
 
 ## LICENSE
 
