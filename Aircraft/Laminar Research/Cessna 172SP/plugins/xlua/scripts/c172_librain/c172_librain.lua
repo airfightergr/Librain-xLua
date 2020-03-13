@@ -284,15 +284,6 @@ rain_init = 0
 	z_obj_obj4_offZ = 0
 	z_obj_obj4_load = 1
 
-	if 	acf_notes_dr ~= "STOL" then --detect Propstrike Bush variant
-		z_obj_obj5_name = mask5_obj
-		z_obj_obj5_offX = 0
-		z_obj_obj5_offY = 0
-		z_obj_obj5_offZ = 0
-		z_obj_obj5_load = 1
-	end
-
-
 	z_obj_obj6_name = mask6_obj
 	z_obj_obj6_offX = 0
 	z_obj_obj6_offY = 0
@@ -324,6 +315,12 @@ rain_init = 0
 		z_obj_obj10_offY = 0
 		z_obj_obj10_offZ = 0
 		z_obj_obj10_load = 1	
+	else
+		z_obj_obj5_name = mask5_obj
+		z_obj_obj5_offX = 0
+		z_obj_obj5_offY = 0
+		z_obj_obj5_offZ = 0
+		z_obj_obj5_load = 1		
 	end
 	
 	-- z_obj_obj11_name = mask11_obj
